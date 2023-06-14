@@ -1,1 +1,1 @@
-# plants
+[Deploy plants](https://stroich.github.io/plants/index.html)
